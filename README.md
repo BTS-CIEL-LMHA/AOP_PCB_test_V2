@@ -1,8 +1,8 @@
-Ce PCB a été crée pour expérimenter sur différents montage d'amplificateurs opérationnels.
+Ce PCB a été crée pour expérimenter sur différents montages d'amplificateurs opérationnels.
 
 Le principe est d'utiliser 2 cavaliers pour sélectionner le montage utilisé : un pour l'entrée, l'autre pour la sortie.
 
-2 cavaliers à l'entrée et à la sortie permettent de court-circuiter le condensateur de liaison
+2 cavaliers à l'entrée et à la sortie du PCB permettent de court-circuiter les condensateurs de liaison pour obtenir une entrée avec offset (indispensable cf ci-dessous)
 
 ATTENTION : il ne faut pas avoir plusieurs cavaliers sur des sorties au risque de court circuit et de destruction des AOP
 
