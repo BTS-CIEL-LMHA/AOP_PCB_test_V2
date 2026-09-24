@@ -15,4 +15,4 @@ Les amplis non inverseurs sont utilisable à condition d'avoir un offset (1/2 al
 
 Il est possible assez facilement de modifier les filtres passe-haut et passe-bande en remplaçant la résistance qui va vers la masse par une résistance qui va vers une masse virtuelle.
 
-Pour les amplis inverseur la connexion à la masse étant directe la modification est plus complexe.
+Pour les amplis inverseur la connexion à la masse étant directe la modification est plus complexe (couper la connexion à la masse du PCB et installer un fil vers la masse virtuelle).
